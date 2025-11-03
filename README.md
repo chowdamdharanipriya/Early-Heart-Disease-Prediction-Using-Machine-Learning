@@ -70,7 +70,6 @@ By identifying patterns in patient data, the system can assist healthcare profes
 **Chowdam Dharani Priya**  
 Machine Learning Enthusiast 💙  
 📧 chowdamdharanipriya1105@gmail.com 
-🔗 [Your LinkedIn / Portfolio Link Here]
-
+🔗 linkedin.com/in/chowdamdharanipriya
 
 Scikit-learn (Machine Learning — Random Forest, Logistic Regression, etc.)
